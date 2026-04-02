@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 Hi, I’m Youssef Ibnouali
 
-<!--
-**youssef-ibnouali/youssef-ibnouali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building **robust and deployable machine learning systems** in real-world environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **About me**
+- 🎓 Computer Engineering student at Polytech Nantes (graduating 2026)
+- 🤖 Currently working as an AI Engineer (real-time computer vision for robotic systems)
+- 🌍 International experience: France, South Korea, Romania, Morocco, Italy...
+
+
+---
+
+🚀 **Experience highlights**
+- Medical imaging AI system (endoscopy analysis)
+- Real-time perception for agricultural robotics (embedded deployment)
+- Self-supervised learning for anomaly detection on veterinary microscopy images
+- Multiple ML projects (classification, NLP, etc.)
+
+> ⚠️ Most of my recent work is not public due to industrial and medical data constraints.
+
+---
+
+📂 **Projects**
+- Some academic and personal projects are available here  
+👉 https://gitlab.com/youssef_ibnouali
+
+---
+
+🤝 **Looking for**
+- Full-time opportunities in **AI / Machine Learning / Computer Vision (starting mid-2026)**
+- Open to international environments
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/youssef-ibnouali/
