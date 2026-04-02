@@ -24,7 +24,7 @@ AI Engineer focused on building **robust and deployable machine learning systems
 
 
 🤝 **Looking for**
-- Full-time opportunities in **AI / Machine Learning / Computer Vision (starting mid-2026)**
+- Full-time opportunities in **AI / Machine Learning / Computer Vision (starting september-2026)**
 - Open to international environments
 
 
