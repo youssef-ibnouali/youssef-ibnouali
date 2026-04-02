@@ -30,3 +30,4 @@ AI Engineer focused on building **robust and deployable machine learning systems
 
 📫 **Contact**
 - LinkedIn: https://www.linkedin.com/in/youssef-ibnouali/
+- email : ibnouali.youssef.pro@gmail.com
